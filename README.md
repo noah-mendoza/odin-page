@@ -1,1 +1,1 @@
-# odin-page
+# odin-pages
